@@ -1,0 +1,71 @@
+/*form{
+  background-color: white;*/
+/* color de titulo */
+body {
+  background-color: grey;
+  font-family: sans-serif;
+  color: white;
+}
+
+h1 {
+  /*color: white;*/
+  font-size: 24px;
+  font-weight: 700;
+}
+
+input {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #9ca6ff;
+  padding: 10px;
+  border-radius: 10px;
+  width: 350px;
+  background-color: black;
+}
+
+.colorB {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #9ca6ff;
+  background-color: #8b54ff;
+  color: white;
+  /*font-size: 15px;
+  background-color: #252eff;*/
+}
+
+div {
+  width: 400px;
+  height: 450px;
+  margin: auto;
+  background-color: black;
+
+}
+
+#user::placeholder {
+  color: white;
+}
+
+#correo::placeholder {
+  color: white;
+}
+
+#phone::placeholder {
+  color: white;
+}
+
+#password::placeholder {
+  color: white;
+}
+
+#confirmPassword::placeholder {
+  color: white;
+}
+
+/* .fuente_diferente {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, 'sans-serif';
+  }
+
+  
+  
+  
+  
